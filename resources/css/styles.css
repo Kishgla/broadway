@@ -7,11 +7,11 @@ body {
   background-image: url("../images/the-flatiron-building.png");
   background-repeat: no-repeat;
   background-position: center;
+  color: white;
 }
 
 h1 {
   font-size: 70px;
-  color: white;
 }
 
 .header a {
@@ -31,6 +31,13 @@ p {
   font-size: 14px;
 }
 
-h3.header {
+.footer {
+  text-align: left;
+  font-size: 11px;
+  color: white;
+  background-color: dimgray;
+}
+
+.footer a {
   color: white;
 }
