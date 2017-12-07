@@ -22,3 +22,15 @@ h1 {
 h2 {
   font-size: 32px;
 }
+
+h3 {
+  font-size: 23px;
+}
+
+p {
+  font-size: 14px;
+}
+
+h3.header {
+  color: white;
+}
